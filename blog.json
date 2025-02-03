@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Before the First Commit",
+        "time": "2024-09-28 00:19",
+        "content": "It's past midnight and I really hope this thing deploys when I commit it..."
+    },
+    {
+        "title": "Test Entry",
+        "time": "2025-02-02 23:19",
+        "content": "It's funny how test entries are supposed to go first, but I've made the test entry after the first one. Well, the first entry \"Before the First Commit\" is...honestly, I've forgotten what I wanted to say here.<br><br>Wait, test entries are supposed to test something right? I guess this is the formatting test...<br> <b>bold</b> <i>italic</i>"
+    },
+    {
+        "title": "A New Update?",
+        "time": "2025-02-03 15:32",
+        "content": "Don't mind the somewhat worrying titles, that's just how I title stuff for some reason. Anyways, there's a lot of new things for this commit. There's the link coloring, the transparency of the bordered stuff, and as well as this blog page. I hope you are impressed by my <i>display of technical prowess</i>."
+    }
+]
